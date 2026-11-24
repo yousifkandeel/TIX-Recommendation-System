@@ -1,0 +1,7 @@
+datasets
+pillow
+ollama 
+pandas
+pyarrow
+numpy 
+tqdm
